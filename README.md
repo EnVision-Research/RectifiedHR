@@ -8,21 +8,21 @@
   <p align="center">
     <a href="https://zhenyangcs.github.io/"><strong>Zhen Yang</strong></a><sup>1,2*</sup>
     ·
-    <a href=""><strong>Guibao Shen</strong></a><sup>1,2*</sup>
+    <a href="https://scholar.google.com/citations?user=d8VVM4UAAAAJ&hl=en"><strong>Guibao Shen</strong></a><sup>1,2*</sup>
     ·  
-    <a href=""><strong>Liang Hou</strong></a><sup>2</sup>
+    <a href="https://liang-hou.github.io/"><strong>Liang Hou</strong></a><sup>2</sup>
     ·
-    <a href=""><strong>Mushui Liu</strong></a><sup>4</sup>
+    <a href="https://xiaobul.github.io/"><strong>Mushui Liu</strong></a><sup>4</sup>
     ·
-    <a href=""><strong>Luozhou Wang</strong></a><sup>1,2</sup>
+    <a href="https://wileewang.github.io/"><strong>Luozhou Wang</strong></a><sup>1,2</sup>
     ·
-    <a href=""><strong>Xin Tao</strong></a><sup>2</sup>
+    <a href="https://www.xtao.website/"><strong>Xin Tao</strong></a><sup>2</sup>
     ·
-    <a href=""><strong>Pengfei Wan</strong></a><sup>2</sup>
+    <a href="https://scholar.google.com/citations?user=P6MraaYAAAAJ&hl=en"><strong>Pengfei Wan</strong></a><sup>2</sup>
     ·
-    <a href=""><strong>Di Zhang</strong></a><sup>2</sup>
+    <a href="https://orcid.org/0009-0006-5475-2728"><strong>Di Zhang</strong></a><sup>2</sup>
     ·
-    <a href=""><strong>Yingcong Chen</strong></a><sup>1,3&#9993;</sup>
+    <a href="https://www.yingcong.me/"><strong>Yingcong Chen</strong></a><sup>1,3&#9993;</sup>
     <br>
     <sup>1</sup>HKUST(GZ) · <sup>2</sup>KuaiShou Research · <sup>3</sup>HKUST · <sup>4</sup>Zhejiang University
     <br>
