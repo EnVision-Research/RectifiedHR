@@ -6,15 +6,15 @@
 
   <h2 align="center">RectifiedHR: Enable Efficient High Resolution Image Generation via Energy Rectification</h2>
   <p align="center">
-    <a href="https://zhenyangcs.github.io/"><strong>Zhen Yang</strong></a><sup>1,2*</sup>
+    <a href="https://zhenyangcs.github.io/"><strong>Zhen Yang</strong></a><sup>1*</sup>
     ·
-    <a href="https://scholar.google.com/citations?user=d8VVM4UAAAAJ&hl=en"><strong>Guibao Shen</strong></a><sup>1,2*</sup>
+    <a href="https://scholar.google.com/citations?user=d8VVM4UAAAAJ&hl=en"><strong>Guibao Shen</strong></a><sup>1*</sup>
     ·  
     <a href="https://liang-hou.github.io/"><strong>Liang Hou</strong></a><sup>2</sup>
     ·
     <a href="https://xiaobul.github.io/"><strong>Mushui Liu</strong></a><sup>4</sup>
     ·
-    <a href="https://wileewang.github.io/"><strong>Luozhou Wang</strong></a><sup>1,2</sup>
+    <a href="https://wileewang.github.io/"><strong>Luozhou Wang</strong></a><sup>1</sup>
     ·
     <a href="https://www.xtao.website/"><strong>Xin Tao</strong></a><sup>2</sup>
     ·
