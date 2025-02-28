@@ -31,7 +31,7 @@
     </br>
         <a href="TODO website">
         <img src='https://img.shields.io/badge/Arxiv-RectifiedHR-blue' alt='Paper'></a>
-        <a href="https://zhenyangcs.github.io/rectifiedhr-diffusion/">
+        <a href="https://zhenyangcs.github.io/RectifiedHR-Diffusion/">
         <img src='https://img.shields.io/badge/Project-Website-orange' alt='Project website'></a>
         <!-- <a href="https://drive.google.com/file/d/1JX8w0S9PCD9Ipmo9IiICO8R7e1haTGdF/view?usp=sharing">
         <img src='https://img.shields.io/badge/Dataset-OIR--Bench-green' alt='OIR-Bench'></a>
