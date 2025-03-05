@@ -29,7 +29,7 @@
     <sup>*</sup>Both authors contributed equally.
     <sup>&#9993;</sup>Corresponding author.
     </br>
-        <a href="TODO website">
+        <a href="https://arxiv.org/abs/2503.02537">
         <img src='https://img.shields.io/badge/Arxiv-RectifiedHR-blue' alt='Paper'></a>
         <a href="https://zhenyangcs.github.io/RectifiedHR-Diffusion/">
         <img src='https://img.shields.io/badge/Project-Website-orange' alt='Project website'></a>
