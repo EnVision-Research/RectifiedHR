@@ -41,12 +41,36 @@
 </p>
 
 
-<p align="center"><b>We will release the code soon!</b></p>
 
 
 
+## Getting Started
+1. Create the environment and install the dependencies by running:
+```
+conda create -n RectifiedHR python=3.9
+conda activate RectifiedHR
+pip install diffusers==0.34.0
+pip install transformers==4.46.2
+pip install opencv-python>4.10.0
+pip install torch==2.5.1
+pip install accelerate==1.1.1
+pip install einops==0.8.0
+pip install ftfy==6.3.1
+```
+2. Run with SDXL
+```
+python run_sdxl.py
+```
 
-<!-- ## BibTeX
+3. Run with WAN
+```
+python run_wan.py
+```
+
+
+
+<!-- 
+## BibTeX
 ```BibTeX
 @inproceedings{yang2024objectaware,
 title     = {Object-Aware Inversion and Reassembly for Image Editing},
@@ -55,5 +79,5 @@ booktitle = {The Twelfth International Conference on Learning Representations},
 year      = {2024},
 url       = {https://openreview.net/forum?id=dpcVXiMlcv}
 }
-``` -->
-
+```
+ -->
