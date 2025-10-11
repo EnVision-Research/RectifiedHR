@@ -67,17 +67,19 @@ python run_sdxl.py
 python run_wan.py
 ```
 
+4. Change the hyperparameters
+
+Edit the parameters in configs_sdxl.py or configs_wan.py to generate higher-quality images.
 
 
-<!-- 
 ## BibTeX
 ```BibTeX
-@inproceedings{yang2024objectaware,
-title     = {Object-Aware Inversion and Reassembly for Image Editing},
-author    = {Zhen Yang and Ganggui Ding and Wen Wang and Hao Chen and Bohan Zhuang and Chunhua Shen},
-booktitle = {The Twelfth International Conference on Learning Representations},
-year      = {2024},
-url       = {https://openreview.net/forum?id=dpcVXiMlcv}
+@article{yang2025rectifiedhr,
+  title={Rectifiedhr: Enable efficient high-resolution image generation via energy rectification},
+  author={Yang, Zhen and Shen, Guibao and Hou, Liang and Liu, Mushui and Wang, Luozhou and Tao, Xin and Wan, Pengfei and Zhang, Di and Chen, Ying-Cong},
+  journal={arXiv e-prints},
+  pages={arXiv--2503},
+  year={2025}
 }
 ```
- -->
+
