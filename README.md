@@ -10,7 +10,7 @@
     ·
     <a href="https://scholar.google.com/citations?user=d8VVM4UAAAAJ&hl=en"><strong>Guibao Shen</strong></a><sup>1*</sup>
     ·  
-    <a href="https://scholar.google.com/citations?user=iahnRcgAAAAJ&hl=zh-CN"><strong>Minyang Li</strong></a><sup>2</sup>
+    <a href="https://scholar.google.com/citations?user=iahnRcgAAAAJ&hl=zh-CN"><strong>Minyang Li</strong></a><sup>1*</sup>
     ·  
     <a href="https://liang-hou.github.io/"><strong>Liang Hou</strong></a><sup>2</sup>
     ·
