@@ -4,7 +4,7 @@
 
 <p align="center">
 
-  <h2 align="center">RectifiedHR: Enable Efficient High Resolution Image Generation via Energy Rectification</h2>
+  <h2 align="center">RectifiedHR: Enable Efficient High-Resolution Synthesis via Energy Rectification</h2>
   <p align="center">
     <a href="https://zhenyangcs.github.io/"><strong>Zhen Yang</strong></a><sup>1*</sup>
     ·
@@ -17,10 +17,6 @@
     <a href="https://wileewang.github.io/"><strong>Luozhou Wang</strong></a><sup>1</sup>
     ·
     <a href="https://www.xtao.website/"><strong>Xin Tao</strong></a><sup>2</sup>
-    ·
-    <a href="https://scholar.google.com/citations?user=P6MraaYAAAAJ&hl=en"><strong>Pengfei Wan</strong></a><sup>2</sup>
-    ·
-    <a href="https://orcid.org/0009-0006-5475-2728"><strong>Di Zhang</strong></a><sup>2</sup>
     ·
     <a href="https://www.yingcong.me/"><strong>Yingcong Chen</strong></a><sup>1,3&#9993;</sup>
     <br>
